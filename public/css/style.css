@@ -1,0 +1,22 @@
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+.card{
+    justify-content: center;
+    display: inline-block;
+}
+
+#cardAuthor{
+    font-size: 12px;
+}
+.navbar{
+    padding: 0% 20%;
+}
+
+.footer-class{
+    padding: 5% 10%;
+    
+}
